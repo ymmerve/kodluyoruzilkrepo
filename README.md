@@ -1,7 +1,7 @@
-# KodluyoruzİlkRepo
+# Kodluyoruz İlk Repo
 
-Bu repo [Kodluyoruz](https://kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz ilk repodur.
-İçerisinde bir ader README dosyası, bir adet de index.html barındırıyor.
+Bu repo [Kodluyoruz](https://kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz ilk repo.
+İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
 ## İnstallation
 
@@ -26,3 +26,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+![](https://github.com/Kodluyoruz/taskforce/raw/main/git/odev1/figures/github.png)
